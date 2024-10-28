@@ -2,6 +2,7 @@
 #!/bin/bash
 
 export DOCKER_CLI_HINTS=false
+export CURL_SSL_BACKEND=secure-transport 
 
 # Install certificates
 echo "\n\nInstalling certificates...\n\n"

@@ -2,8 +2,12 @@
 
 ## Prerequisites
 
-1. Docker with Docker Compose (i.e. [Colima](https://github.com/abiosoft/colima), [OrbStack](https://orbstack.dev/), [PodMan](https://podman.io/), [Docker Desktop](https://www.docker.com/products/docker-desktop/))
-1. Mac with OS X 
+1. Mac with OS X 14.7 (update OS X to 14.7 if you have an older version)
+1. Docker with Docker Compose capability (i.e. [Colima](https://github.com/abiosoft/colima), [OrbStack](https://orbstack.dev/), [PodMan](https://podman.io/), [Docker Desktop](https://www.docker.com/products/docker-desktop/))
+1. Enough CPU, Memory and Disk resources dedicated to Docker. We will be using a lot in the installation and running process
+
+<img src="docker.png" height="200"/>
+
 
 ## Getting started
 
