@@ -1,0 +1,15 @@
+services:
+
+  express:
+    hostname: express
+    container_name: express
+    build: 
+      context: .
+      dockerfile: ./containers/express/Dockerfile
+    ports:
+      - 9999:443
+    networks:
+      - platform-network
+networks:
+  platform-network:
+    driver: bridge
