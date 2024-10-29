@@ -18,3 +18,7 @@
 
 If everything is installed correctly, you should be able to 
 `curl https://platform.local:9999` and get result `Hello platform.local!`
+
+# Tasks
+
+* [Task1](/tasks/task1.md) - setting up some security
