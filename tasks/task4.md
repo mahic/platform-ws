@@ -66,7 +66,7 @@ In this task we will set up [Apache Hive Metastore](https://hive.apache.org/), a
 6. Open DBeaver, set up a new connection to the Postgres database created in step 1.
 ```
 Hostname: localhost
-Port: 5432
+Port: 5433
 Database: metastore_db
 Username/password: admin/admin
 ```

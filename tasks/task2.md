@@ -1,4 +1,4 @@
-# Step 3 - Storage
+# Step 2 - Storage
 
 When building a data platform, we need to have some storage.
 

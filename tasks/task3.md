@@ -2,7 +2,7 @@
 
 The two previous steps are prerequisites for building a version of the Lakehouse architecture.
 
-Please make sure you fully understand the concept of Lakehouse architectures before moving on by reading [this short article](https://www.generativevalue.com/p/a-primer-on-the-dasta-lakehouse).
+Please make sure you fully understand the concept of Lakehouse architectures before moving on by reading [this short article](https://www.generativevalue.com/p/a-primer-on-the-data-lakehouse).
 
 ## Tasks
 
